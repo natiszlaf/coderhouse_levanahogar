@@ -23,7 +23,7 @@ h3 {
   color: grey;
   -webkit-transition: all 2s infinite;
   transition: all 2s infinite;
-}
+} 
 
 .hola:hover {
   color: black;
