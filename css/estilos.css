@@ -357,7 +357,6 @@ textarea {
 .contenedor-img img {
   width: 100%;
   height: auto;
-  height: 80%;
   object-fit: cover;
   object-position: center center;
 }
@@ -391,7 +390,6 @@ textarea {
 
 #cnt3 {
   background-color: #efd1c6;
-  height: 80%;
 }
 
 #cntcontacto {
